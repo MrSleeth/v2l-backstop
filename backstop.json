@@ -219,7 +219,7 @@
       "removeSelectors": [".staging", ".toolbar"],
       "hoverSelector": "",
       "clickSelector": ".a11y-btn",
-      "postInteractionWait": 0.6,
+      "postInteractionWait": 1,
       "selectors": [],
       "selectorExpansion": true,
       "expect": 0,
