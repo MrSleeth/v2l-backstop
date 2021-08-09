@@ -283,7 +283,7 @@
     {
       "label": "Page: Unit 1, Session 1, Page 1",
       "url": "http://staging.backgroundyellow.net/courses/demo/1/1/1/",
-      "referenceUrl": "https://v2lrefresh.netlify.app/courses/demo/",
+      "referenceUrl": "https://v2lrefresh.netlify.app/courses/demo/1/1/1/",
       "readyEvent": "",
       "readySelector": "",
       "delay": 0,
@@ -360,7 +360,7 @@
     "html_report": "backstop_data",
     "ci_report": "backstop_data/ci_report"
   },
-  "report": ["browser"],
+  "report": ["CI"],
   "engine": "puppeteer",
   "engineOptions": {
     "args": ["--no-sandbox"]
