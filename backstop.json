@@ -165,7 +165,7 @@
       "removeSelectors": [".staging", ".toolbar", "footer"],
       "hoverSelector": "",
       "clickSelector": "[data-v2l-correct='true']",
-      "postInteractionWait": 0.1,
+      "postInteractionWait": 600,
       "selectors": [],
       "selectorExpansion": true,
       "expect": 0,
